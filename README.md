@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namanmehra-cell
-- 👀 I’m interested in ... App development
-- 🌱 I’m currently learning ...flutter, dart
+- 👀 I’m interested in App development
+- 🌱 I’m currently learning flutter, dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 

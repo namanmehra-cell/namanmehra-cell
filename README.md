@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @namanmehra-cell
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning python,backend development
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ... namanmehra1@outlook.com
 
 <!---
